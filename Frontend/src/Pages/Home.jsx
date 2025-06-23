@@ -192,7 +192,7 @@ function Home() {
         }}
       >
         <Typography variant="body2">
-          © 2025 Zinio Team 18. All rights reserved.
+          © 2025 Zidio Team 18. All rights reserved.
         </Typography>
       </Box>
     </Box>
