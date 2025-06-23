@@ -1,2 +1,3 @@
 venv
 /Users/nandanpatel/Projects/Image Captioning/Image_captioning/Backend/models/deeplabv3_traced.pt
+__pycache__/
