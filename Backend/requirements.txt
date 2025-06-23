@@ -4,3 +4,4 @@ pillow
 torch
 tensorflow
 opencv-python
+transformers
